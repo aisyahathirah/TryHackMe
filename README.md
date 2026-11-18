@@ -1,5 +1,3 @@
-# TryHackMe
-
 # TryHackMe – Cybersecurity Learning Journey
 
 Welcome to my TryHackMe repository!
