@@ -43,7 +43,7 @@ Verified that all three defensive controls were successfully deployed and that t
 
 ## Evidence
 
-Screenshots documenting the investigation process and successful threat mitigation are included in the `screenshots/` directory.
+Screenshots documenting the investigation process and successful threat mitigation are included in the `Images/` directory.
 
 ## Outcome
 Successfully completed the simulated security investigation by identifying suspicious activity, implementing defensive controls and neutralising the simulated threat.
