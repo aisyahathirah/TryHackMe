@@ -6,11 +6,17 @@
 
 ## Overview
 
-This project documents a practical cybersecurity exercise on TryHackMe called *Within Range*.
+Lab Scenario
 
-The exercise explores how information about an individual's device and digital environment can potentially be exposed through seemingly ordinary interactions, as well as how attackers may use social engineering techniques to deceive users.
+Imagine you are sitting in a café, with someone at a table nearby. They never touch your phone or speak to you.
 
-Through this exercise, I explored device information exposure, suspicious security notifications, and the identification of phishing indicators in fraudulent emails.
+How much can they still learn about you?
+
+This TryHackMe exercise, Within Range, explores the potential exposure of personal and device information through nearby digital interactions.
+
+The lab demonstrates how information can be gathered without directly accessing someone's phone, and how the exposed information could potentially be used to create convincing social engineering attempts, such as fraudulent account security notifications.
+
+The exercise focuses on understanding digital exposure, recognising privacy risks, and identifying phishing indicators.
 
 ## Objectives
 
